@@ -1,0 +1,8 @@
+V	310224084130Z		01	unknown	/C=TW/ST=KS/L=Kaohsiung/O=NSYSU/OU=lis/CN=server/name=nsysuvpn
+V	310224084250Z		02	unknown	/C=TW/ST=KS/L=Kaohsiung/O=NSYSU/OU=lis/CN=client1
+V	310224084329Z		03	unknown	/C=TW/ST=KS/L=Kaohsiung/O=NSYSU/OU=lis/CN=client2
+V	260303055100Z		04	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyVPN/CN=server-cert/name=EasyRSA/emailAddress=my@vpn.net
+R	260303055121Z	210304055121Z	05	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyVPN/CN=revoked/name=EasyRSA/emailAddress=my@vpn.net
+V	260303055328Z		06	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyVPN/CN=client0/name=EasyRSA/emailAddress=my@vpn.net
+R	260303060510Z	210304060510Z	07	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyVPN/CN=revoked/name=EasyRSA/emailAddress=my@vpn.net
+V	260303060728Z		08	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/OU=MyVPN/CN=client00/name=EasyRSA/emailAddress=my@vpn.net
